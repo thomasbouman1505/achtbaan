@@ -6,14 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
-<header>
-	<nav>
-		<a href=""></a>
-		<a href=""></a>
-		<a href=""></a>
-		<a href=""></a>
-	</nav>
-</header>
+<?php require_once('header.php') ?>
  
 <body>
     <header>
@@ -22,8 +15,6 @@
     <main>
 
     </main>
-    <footer>
-        
-    </footer>
+    <?php require_once('footer.php') ?>
 </body>
 </html>
