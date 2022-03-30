@@ -13,7 +13,7 @@
 
     </header>
     <main>
-
+     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Alias consectetur deleniti soluta dolores architecto itaque asperiores saepe, eum id, inventore explicabo perferendis deserunt ducimus quis dicta sit. Excepturi, modi inventore.</p>
     </main>
     <?php require_once('footer.php') ?>
 </body>
