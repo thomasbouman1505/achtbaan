@@ -6,11 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
-<<<<<<< HEAD
-
-=======
-<?php require_once('header.php') ?>
->>>>>>> 588232df2ccc54d04147902fd5da1853f2c71277
  
 <body>
     <header>
