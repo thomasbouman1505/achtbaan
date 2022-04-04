@@ -2,10 +2,7 @@
     margin: 0;
     padding: 0;
 }
-<<<<<<< HEAD
-.logo{
-    width: 50px 50px;
-=======
+
 
 header{
     width: 100%;
@@ -17,5 +14,4 @@ header{
 .container{
     margin: 0 auto;
     width: 75%;
->>>>>>> d19c8e29cb3a94fa22638a5e63d2aa24bf466a28
 }
