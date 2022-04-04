@@ -2,3 +2,15 @@
     margin: 0;
     padding: 0;
 }
+
+header{
+    width: 100%;
+    height: auto;
+    padding-bottom: 1.5rem;
+    background-color: lightblue;
+}
+
+.container{
+    margin: 0 auto;
+    width: 75%;
+}
