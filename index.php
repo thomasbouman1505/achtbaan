@@ -9,9 +9,7 @@
 </head>
  
 <body>
-    <header>
-
-    </header>
+    <?php require_once('header.php') ?>
     <main>
      <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Alias consectetur deleniti soluta dolores architecto itaque asperiores saepe, eum id, inventore explicabo perferendis deserunt ducimus quis dicta sit. Excepturi, modi inventore.</p>
     </main>

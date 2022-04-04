@@ -2,6 +2,20 @@
     margin: 0;
     padding: 0;
 }
+<<<<<<< HEAD
 .logo{
     width: 50px 50px;
+=======
+
+header{
+    width: 100%;
+    height: auto;
+    padding-bottom: 1.5rem;
+    background-color: lightblue;
+}
+
+.container{
+    margin: 0 auto;
+    width: 75%;
+>>>>>>> d19c8e29cb3a94fa22638a5e63d2aa24bf466a28
 }
