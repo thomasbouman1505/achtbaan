@@ -1,6 +1,5 @@
 <header>
 	<div class="logo">
-<<<<<<< HEAD
 	<img src="img/achtbaan.jpg" alt="Logo">
 </div>
 	<p>Naam van het bedrijf eronder</p>
@@ -10,7 +9,6 @@
 		<a href="index.php">home</a>
 		<a href="">#</a>
 	</nav>
-=======
 		<img src="" class= alt="Logo">
 		<p>Logo</p>
 	</div>
@@ -21,5 +19,4 @@
 			<a href="">#</a>
 		</nav>
 	</div>
->>>>>>> d19c8e29cb3a94fa22638a5e63d2aa24bf466a28
 </header>
