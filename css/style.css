@@ -15,3 +15,6 @@ header{
     margin: 0 auto;
     width: 75%;
 }
+.wrapper nav{
+    text-transform: uppercase;
+}
