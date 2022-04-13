@@ -8,12 +8,11 @@
 </head>
 <body>
     <?php require_once('header.php') ?>
+    <div class="container">
     <main>
         <label for="FullName">Volledige naam</label>
         <input type="text" name="FullName" id="FullName">
     </main>
-    <footer>
-
-    </footer>
+    </div>
 </body>
 </html>

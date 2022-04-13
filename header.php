@@ -1,22 +1,13 @@
 <header>
-	<div class="logo">
-	<img src="img/achtbaan.jpg" alt="Logo">
-</div>
-	<p>Naam van het bedrijf eronder</p>
-	
-	<nav>
-		<a href="contactpagina.php">contactpagina</a>
-		<a href="index.php">home</a>
-		<a href="">#</a>
-	</nav>
-		<img src="" class= alt="Logo">
-		<p>Logo</p>
-	</div>
-	<div class="container">
-		<nav>
-			<a href="contactpagina.php">contactpagina</a>
-			<a href="index.php">home</a>
-			<a href="">#</a>
-		</nav>
-	</div>
-</header>
+      <div class="navbar">
+        <div class="wrapper">
+          <h1>Roller<span>Coaster</span></h1>
+          <nav>
+            <a href="index.php">home</a>
+            <a href="">karretjes</a>
+            <a href="">achtbaans</a>
+            <a href="">contact</a>
+          </nav>
+        </div>
+      </div>
+    </header>
