@@ -16,9 +16,7 @@
   <body>
     <?php require_once 'header.php'; ?>
     <main>
-      <div class="services">
         <div class="wrapper">
-          </div>
         </div>
       </div>
     </main>
