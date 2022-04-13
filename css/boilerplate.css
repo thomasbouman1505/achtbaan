@@ -106,7 +106,7 @@ rgb 74  84  92
   padding: 0;
 }
 body {
-  color: #ffffff;
+  color: #000;
   font-family: segoeui;
 }
 .wrapper {
@@ -114,57 +114,7 @@ body {
   margin: 0 auto;
 }
 /*================================header===========================*/
-header {
-  background: url(../img/Hero.png);
-}
-h1 {
-  font-family: segoeui-bold;
-}
-h1 span {
-  color: #4bcaff;
-}
-main h3 span {
-  border-bottom: 3px solid #fff;
-}
-.blue {
-  background-color: #4bcaff;
-}
-.navbar .wrapper {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-.navbar {
-  background: rgba(74, 84, 92, 0.75);
-}
-.navbar nav {
-  display: flex;
-  justify-content: space-between;
-  width: 50%;
-}
-.navbar a {
-  text-decoration: none;
-  color: #ffffff;
-  border: 4px solid transparent;
-  padding: 5px 10px;
-}
-.navbar a:hover {
-  border: 4px solid #4bcaff;
-  color: #4bcaff;
-}
-.hero {
-  padding: 200px 0;
-}
-.hero-text {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-h2 {
-  display: inline-block;
-  margin-bottom: 1%;
-  background: rgba(74, 84, 92, 0.75);
-}
+
 
 /* ==========================================================================
    Helper classes

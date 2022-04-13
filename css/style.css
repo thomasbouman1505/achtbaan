@@ -3,14 +3,6 @@
     padding: 0;
 }
 
-
-header{
-    width: 100%;
-    height: auto;
-    padding-bottom: 1.5rem;
-    background-color: lightblue;
-}
-
 .container{
     margin: 0 auto;
     width: 75%;
@@ -18,3 +10,41 @@ header{
 .wrapper nav{
     text-transform: uppercase;
 }
+
+h1 span {
+    color: #4bcaff;
+  }
+  main h3 span {
+    border-bottom: 3px solid #fff;
+  }
+  .blue {
+    background-color: #4bcaff;
+  }
+  .navbar .wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .navbar {
+    background: rgba(74, 84, 92, 0.75);
+  }
+  .navbar nav {
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+  }
+  .navbar a {
+    text-decoration: none;
+    color: #ffffff;
+    border: 4px solid transparent;
+    padding: 5px 10px;
+  }
+  .navbar a:hover {
+    border: 4px solid #4bcaff;
+    color: #4bcaff;
+  }
+  
+  .block{
+      display: flex;
+      flex-direction: row;
+  }
