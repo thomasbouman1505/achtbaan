@@ -12,8 +12,8 @@
         <label for="FullName">Volledige naam</label>
         <input type="text" name="FullName" id="FullName">
     </main>
-    <footer>
 
-    </footer>
 </body>
+
+<?php require_once('footer.php') ?>
 </html>
