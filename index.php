@@ -16,9 +16,13 @@
   <body>
     <?php require_once 'header.php'; ?>
     <main>
+      
         <div class="wrapper">
+          </div>
+          <p>We hebben een nieuwe achtbaantechniek ontwikkeld en het heet magnadrive . we hebben een middel gevonden die ons team heeft uitgevonden . door deze techniek kunnen we een achtbaan produceren die tot wel 10% sneller kan en paar graden scherper door de bocht en hij gaat ook nog een langer mee . de achtbaan is ook nog eens goed voor de natuur want hij is voor een deel gemaakt van oude onderdelen en het het is niet eens duurde dan onze concurrenten en door onze techniek kunnen we de attractie veel compacter bouwen waardoor je meer ruimt over hebt voor andere dingen en het zal minder kosten</p>
+          
         </div>
-      </div>
+      
     </main>
   </body>
 </html>
